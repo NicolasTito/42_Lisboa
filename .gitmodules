@@ -4,3 +4,12 @@
 [submodule "42_LIBFT"]
 	path = 42_LIBFT
 	url = git@github.com:NicolasTito/42_lvl0_LIBFT.git
+[submodule "42_So_Long"]
+	path = 42_So_Long
+	url = git@github.com:NicolasTito/42_So_Long.git
+[submodule "42_Philosophers"]
+	path = 42_Philosophers
+	url = git@github.com:NicolasTito/42_Philosophers.git
+[submodule "42-Push-Swap"]
+	path = 42-Push-Swap
+	url = git@github.com:NicolasTito/42-Push-Swap.git
