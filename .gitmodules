@@ -13,3 +13,6 @@
 [submodule "42-Push-Swap"]
 	path = 42-Push-Swap
 	url = git@github.com:NicolasTito/42-Push-Swap.git
+[submodule "42_ft_printf"]
+	path = 42_ft_printf
+	url = git@github.com:NicolasTito/42_ft_printf.git
