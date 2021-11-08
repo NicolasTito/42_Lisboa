@@ -1,3 +1,6 @@
 [submodule "42_GetNexLine"]
 	path = 42_GetNexLine
 	url = git@github.com:NicolasTito/42_GetNextLine.git
+[submodule "42_LIBFT"]
+	path = 42_LIBFT
+	url = git@github.com:NicolasTito/42_lvl0_LIBFT.git
