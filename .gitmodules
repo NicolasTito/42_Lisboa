@@ -22,3 +22,6 @@
 [submodule "42_MiniTalk"]
 	path = 42_MiniTalk
 	url = git@github.com:NicolasTito/42_MiniTalk.git
+[submodule "42_MiniShell"]
+	path = 42_MiniShell
+	url = git@github.com:NicolasTito/42_MiniShell.git
